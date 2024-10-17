@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "Submitted at the US-RSE'24 conference"
+authors:
+  - family-names: Sampleton
+    given-names: Sample
+    orcid: https://orcid.org/1234-5678-9101-1121
+title: "Sample Submission 1"
