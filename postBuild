@@ -1,0 +1,6 @@
+#!/bin/bash
+
+set -e
+set -o pipefail
+
+wget -qO- https://raw.githubusercontent.com/lbianchi-lbl/notebooks-ci/main/install-quarto.sh | bash -s
